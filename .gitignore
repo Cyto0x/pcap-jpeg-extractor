@@ -1,0 +1,5 @@
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.log
+extracted_frames/
